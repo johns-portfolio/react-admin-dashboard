@@ -25,7 +25,7 @@ const Trend = () => {
   return (
     <div className="flex flex-row flex-wrap gap-2 justify-between">
       {data.map((c, i) => (
-        <div key={i} className="shadow-lg px-6 py-4 w-80 flex flex-col gap-2">
+        <div key={i} className="shadow-lg px-6 py-4 flex flex-col flex-1 gap-2">
           <h1 className="text-2xl">{c.name}</h1>
           <div className="flex flex-row items-center gap-2">
             <h1 className="text-4xl flex-1">{c.amount}</h1>
