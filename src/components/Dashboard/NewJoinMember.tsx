@@ -21,16 +21,6 @@ const users = [
     img: 'https://www.allkpop.com/upload/2021/08/content/311237/1630427830-untitled-1.jpg',
     name: 'John S.',
     position: 'Developer'
-  },
-  {
-    img: 'https://www.allkpop.com/upload/2021/08/content/311237/1630427830-untitled-1.jpg',
-    name: 'John S.',
-    position: 'Developer'
-  },
-  {
-    img: 'https://www.allkpop.com/upload/2021/08/content/311237/1630427830-untitled-1.jpg',
-    name: 'John S.',
-    position: 'Developer'
   }
 ]
 
